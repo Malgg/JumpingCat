@@ -93,6 +93,21 @@ _Es un juego desarrollado en Android Studio, con la finalidad de subir la notita
 ## SCREENSHOTS DEL PROYECTO FINAL
 * PAGINA PRINCIPAL
 
+![juego](ss/PAGINA_principal.png)
+
+* GATO SALTANDO
+
+![juego](ss/gato_saltando.png)
+
+* BLOQUE PEGADO
+
+![juego](ss/bloque_pegado.png)
+
+* GAMEOVER
+
+![juego](ss/gameover.png)
+
+
 
 
 ## CUADRO DE RESUMEN DE HISTORIAS DE USUARIO
