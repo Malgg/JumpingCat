@@ -120,3 +120,6 @@ _Es un juego desarrollado en Android Studio, con la finalidad de subir la notita
 |Saltar con realidad	         |     8      |      	4       |      SI |
 |Puntuación máxima	           |     2       |      	3       |      SI |
 |Generar algoritmo game over	 |     4       |       	3       |      SI |
+
+Total de puntos: 29
+Estado del proyecto: 75% (Funcional)
