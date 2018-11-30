@@ -28,7 +28,7 @@ _Es un juego desarrollado en Android Studio, con la finalidad de subir la notita
 |Numero:  1	|suario: Cliente|
 |Nombre historia: Preparar Sprites||
 |Prioridad en negocio:Baja	|Riesgo en desarrollo:Baja|
-|Puntos estimados:4|	Iteración asignada:1|
+|Puntos estimados:2|	Iteración asignada:1|
 |Programador responsable: Palacios Castillo, Jesús||
 |Descripción: Debe tener personajes, bloques,  fondos y sonidos divertidos para el usuario||
 
@@ -48,7 +48,7 @@ _Es un juego desarrollado en Android Studio, con la finalidad de subir la notita
 |Numero:  3	|Usuario: Cliente|
 |Nombre historia: Generar Camino infinito ||
 |Prioridad en negocio:Media	|Riesgo en desarrollo:Media|
-|Puntos estimados:6	|Iteración asignada:1|
+|Puntos estimados:3	|Iteración asignada:1|
 |Programador responsable: Flores Horna, Renzo Aarón|
 |Descripción: Debe permitir seguir saltando por un camino interminable que tenga una corta distancia entre los bloques||
 
@@ -67,7 +67,7 @@ _Es un juego desarrollado en Android Studio, con la finalidad de subir la notita
 |Numero:  5	|Usuario: Cliente|
 |Nombre historia: Saltar con realidad||
 |Prioridad en negocio:Alta	|Riesgo en desarrollo:Alta|
-|Puntos estimados:10	|Iteración asignada:1|
+|Puntos estimados:8	|Iteración asignada:1|
 |Programador responsable: Flores Horna, Renzo Aarón||
 |Descripción: Debe de saltar el personaje con gravedad haciendo que caiga más rápido. Solo debe poder saltar 2 veces antes de tocas bloque||
 
@@ -113,10 +113,10 @@ _Es un juego desarrollado en Android Studio, con la finalidad de subir la notita
 ## CUADRO DE RESUMEN DE HISTORIAS DE USUARIO
 |HISTORIAS	                   |   PUNTOS	   |   PRIORIDADES  |   TERMINADA |
 | ----- | ---- | ---- | ---- |
-|Preparar sprites	           |     4       |      	1       |      SI |
+|Preparar sprites	           |     2       |      	1       |      SI |
 |Dibujar fondo infinito	     |     2       |       	2       |      SI |
-|Generar camino infinito	     |     6       |      	3       |      SI |
+|Generar camino infinito	     |     3       |      	3       |      SI |
 |Crear bloques donde salte	   |     8       |      	4       |      SI |
-|Saltar con realidad	         |     10      |      	4       |      SI |
+|Saltar con realidad	         |     8      |      	4       |      SI |
 |Puntuación máxima	           |     2       |      	3       |      SI |
 |Generar algoritmo game over	 |     4       |       	3       |      SI |
